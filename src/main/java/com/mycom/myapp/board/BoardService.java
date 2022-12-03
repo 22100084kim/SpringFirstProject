@@ -1,4 +1,4 @@
-package com.spring.board;
+package com.mycom.myapp.board;
 
 import java.util.List;
 
